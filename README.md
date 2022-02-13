@@ -1,7 +1,7 @@
 # Self-Employed-Persons-NL   
 
 ## Goal ##   
-Analyze self-employment trends in the Netherlands to find out the situation with self-employment for women in top 3 of the most profitable industries.   
+Analyze self-employment trends from 2011 to 2020 in the Netherlands to find out the situation with self-employment for women in top 3 of the most profitable industries.   
 
 ## The data sources ##   
 The information for this project is based on open data made available by a [StatLine](https://opendata.cbs.nl/#/CBS/nl/) is the database of Statistics Netherlands. This sources contains statistics regarding income and capital of self-employed persons in the Netherlands for whom self-employment provides for the main source of income. The figures in this table are broken down by type of self-employed person, sector, gender, age, migration background, position in the household.   
