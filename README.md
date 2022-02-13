@@ -14,3 +14,5 @@ The information for this project is based on open data made available by a [Stat
 **5.** [Create and test hypothesis](project_files/hypothesis_testing.ipynb)   
 **6.** [Build a Machine Learning model](project_files/model.ipynb)   
 **7.** [Create a presentation for an external audience using Tableau](https://public.tableau.com/app/profile/ekaterina.litvinova/viz/Self-Employed-Persons-NL/Self-Employed-Persons-NL?publish=yes)   
+
+### Results ###
