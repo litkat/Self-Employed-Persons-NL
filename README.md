@@ -4,7 +4,7 @@
 Analyze self-employment trends from 2011 to 2020 in the Netherlands to find out the situation with self-employment for women in top 3 of the most profitable industries.   
 
 ## The data sources ##   
-The information for this project is based on open data made available by a [StatLine](https://opendata.cbs.nl/#/CBS/nl/) is the database of Statistics Netherlands. This sources contains statistics regarding income and capital of self-employed persons in the Netherlands for whom self-employment provides for the main source of income. The figures in this table are broken down by type of self-employed person, sector, gender, age, migration background, position in the household.   
+The information for this project is based on open data made available by a [StatLine](https://opendata.cbs.nl/#/CBS/nl/) the database of Statistics in the Netherlands. This source contains statistics regarding income and capital of self-employed persons in the Netherlands for whom self-employment provides for the main source of income. The figures in this table are broken down by type of self-employed person, sector, gender, age, migration background, position in the household.   
 
 ## A summary of data processing for this project can be viewed here: ##   
 **1.** Formulate question   
@@ -41,7 +41,7 @@ We can see, that on average women earn twice as less than men in the same indust
 
 Not surprising that it is the **_Health industry_** and it was growing fast before Covid. There is almost no women of my age in **_Financial Institutions_** and, as we saw before, the number didn’t change for 10 years. Looks like there’s no women between 25 and 34 left there in 2020. The number is growing for **_Specialized Business services_**.   
 
-**what is there any difference in income among women depending on age?**   
+**Is there any difference in income among women depending on age?**   
 
 ![women depending on age](/project_files/images/women_income_by_age.png)   
 
